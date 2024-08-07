@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/johnkagunda" target="blank"><img src="https://img.shields.io/twitter/follow/johnkagunda?logo=twitter&style=for-the-badge" alt="johnkagunda" /></a> </p>
 
-- 🔭 I’m currently working on [My portfolio project](https://www.johnmkagunda.me/)
+- 🔭 I’m currently working on  Open source projects
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Quality code practices**
 
-- 📝 I regularly write articles on [Software Enginnering](Software Enginnering)
+- 📝 I regularly write articles on [Software Enginnering](https://dev.to/rafaeljohn9)
 
 - 💬 Ask me about **React, Python, JavaScript, Bash, Puppet**
 
