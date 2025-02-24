@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm John Mwangi Kagunda</h1>
-<h3 align="center">A passionate FullStack Engineer from Kenya</h3>
+<h1 align="center">Hi 👋, I'm John</h1>
+<h3 align="center">A Backend Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaeljohn9&label=Profile%20views&color=0e75b6&style=flat" alt="rafaeljohn9" /> </p>
 
@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on  Open source projects
 
-- 🌱 I’m currently learning **Quality code practices**
+- 🌱 I’m currently learning **Best Software Engineering Practices**
 
 - 📝 I regularly write articles on [Software Enginnering](https://dev.to/rafaeljohn9)
 
-- 💬 Ask me about **React, Python, JavaScript, Bash, Puppet**
+- 💬 Ask me about **Engineering Softwares 🔥**
 
 - 📫 How to reach me **johnmkagunda@gmail.com**
 
