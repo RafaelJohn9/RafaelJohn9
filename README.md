@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [Software Enginnering](https://dev.to/rafaeljohn9)
 
-- 💬 Ask me about **Engineering Softwares 🔥**
+- 💬 Ask me about **Software Engineering 🔥**
 
 - 📫 How to reach me **johnmkagunda@gmail.com**
 
