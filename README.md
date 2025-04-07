@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **johnmkagunda@gmail.com**
 
-- ⚡ Fun fact **When you finish reading this, You will blink! 😁**
+- ⚡ Fun fact **Am not funny, but for you I'll try to be :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
