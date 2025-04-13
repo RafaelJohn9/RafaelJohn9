@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm John</h1>
+<h1 align="center">Hi, I'm John</h1>
 <h3 align="center">A Bad UI/UX Designer, <br> a decent FullStack Engineer,  <br>  and an awesome Backend Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaeljohn9&label=Profile%20views&color=0e75b6&style=flat" alt="rafaeljohn9" /> </p>
