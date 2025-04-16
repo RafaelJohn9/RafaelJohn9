@@ -21,7 +21,6 @@
 
 - ⚡ Fun fact **Am not funny.**
 
-![alt text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVzcWVpanV1NDFkNzd4OGp1ZHJxaGg0NTF6ZnAyajgwMTlidzYyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/21WdzSyUdpud6cJZXS/giphy.gif)
 
 <br>
 
