@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on  Opensource projects and [building my X... while learning rust](https://github.com/RafaelJohn9/build-your-own-x)
 
-- 🌱 I’m currently learning what's [all the fuss about AI](https://openai.com/news/research/)
+- 🌱 I’m currently learning [AI](https://openai.com/news/research/)
 
 - 📝 I regularly write articles on Software Enginnering: [here](https://dev.to/rafaeljohn9)
 
