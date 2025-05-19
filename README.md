@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm John</h1>
-<h3 align="center"> An Awesome Backend Engineer</h3>
+<h1 align="center">Hi, I'm John👨‍💻 </h1>
+<h3 align="center"> I craft scalable backends and love turning ideas into APIs. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaeljohn9&label=Profile%20views&color=0e75b6&style=flat" alt="rafaeljohn9" /> </p>
 
