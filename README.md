@@ -31,8 +31,17 @@
 ![alt text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ljc2E1MW4xYWt4d28zemR3NDc1MGZhM3dqNGs4dWRoam9vZG40aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WvTKJoo9Dudou54YY6/giphy.gif)
 
 <p align="left">
+
+### Twitter
+
 <a href="https://twitter.com/JohnKagunda_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="johnkagunda" height="30" width="40" /></a>
+
+### LinkedIn
+
 <a href="https://linkedin.com/in/john-kagunda-232961270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnkagunda" height="30" width="40" /></a>
+
+### Leetcode
+
 <a href="https://www.leetcode.com/rafaeljohn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rafaeljohn" height="30" width="40" /></a>
 </p>
 
