@@ -19,7 +19,7 @@
   - [discord](https://discord.com/channels/@me/1079366889752494140)
   - [johnmkagunda@gmail.com](mailto:johnmkagunda@gmail.com)
 
-- ⚡ Fun fact **Am not funny.**
+- ⚡ Fun fact **I'm not funny.**
 
 
 <br>
