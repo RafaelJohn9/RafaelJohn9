@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terminal</title>
+    <link rel="icon" href="img/favicon.svg" type="image/svg+xml">
+    <link rel="shortcut icon" href="img/favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="matrix-rain" id="matrixRain"></div>
+    <div class="terminal-container" id="terminal">
+        <div class="scan-line"></div>
+        <div class="terminal-header">
+            <div class="terminal-buttons">
+                <div class="btn btn-close" onclick="closeTerminal()"></div>
+                <div class="btn btn-minimize" onclick="minimizeTerminal()"></div>
+                <div class="btn btn-maximize" onclick="maximizeTerminal()"></div>
+            </div>
+            <div class="terminal-title">john@portfolio:~$</div>
+        </div>
+        <div class="terminal-content" id="terminalContent">
+            <div class="terminal-line">
+                <span class="prompt">john@portfolio:~$</span>
+                <span class="command">./introduce.sh</span>
+            </div>
+        </div>
+        <div class="input-line">
+            <span class="input-prompt">john@portfolio:~$</span>
+            <input type="text" class="command-input" id="commandInput" placeholder="Try typing 'help', 'skills', 'matrix', or 'hack'..." disabled />
+        </div>
+        <div class="help-text">
+            💡 Try: help | skills | projects | matrix | hack | clear | konami code (↑↑↓↓←→←→BA)
+        </div>
+        <div class="terminal-footer">
+            <div class="status-bar">
+                <span>Connected</span>
+                <span>Backend Engineer</span>
+                <span id="statusText">Loading...</span>
+            </div>
+            <div>Press Ctrl+C to exit</div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
