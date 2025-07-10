@@ -18,7 +18,7 @@
 - 🔭 Currently working on open-source projects and [Building My X in Rust](https://github.com/RafaelJohn9/build-your-own-x)
 - 🌱 Learning [AI](https://openai.com/news/research/)
 - 📝 I write about software engineering [here](https://dev.to/rafaeljohn9)
-- 💬 Ask me about: **Software Engineering, Rust, Backend Systems**
+- 💬 Ask me about: **Software Engineering, Rust, Python, Backend Systems**
 - 📫 How to reach me:
   - 📧 [johnmkagunda@gmail.com](mailto:johnmkagunda@gmail.com)
   - 💬 [Discord](https://discord.com/channels/@me/1079366889752494140)
