@@ -46,6 +46,7 @@ const commands = {
         addTerminalLine('Recent Projects:', 'system');
         setTimeout(() => {
             addTerminalLine('🚀 API Gateway - Microservices orchestration', 'success');
+            addTerminalLine('Rust CLI tool', 'success');
             addTerminalLine('📊 Analytics Dashboard - Real-time data processing', 'success');
             addTerminalLine('🔐 Auth Service - JWT & OAuth implementation', 'success');
         }, 600);
