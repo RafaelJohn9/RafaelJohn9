@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm John 👨‍💻</h1>
-<h3 align="center">I craft scalable backends and love turning caffeine into APIs 🚀 (It's basically the same process)</h3>
+<h3 align="center">I craft scalable backends and love turning caffeine into APIs 🚀</h3>
+<p align="center"><em>(It's basically the same process)</em></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rafaeljohn9&label=Profile%20views&color=0e75b6&style=flat" alt="rafaeljohn9" /> 
-  <br><em>(Yes, these views are real. Unlike my promises to document my code.)</em>
+  <br><em>Yes, these views are real. Unlike my promises to document my code.</em>
 </p>
 
 <p align="center">
@@ -16,112 +17,114 @@
 
 ---
 
-### 🧠 About Me: The Human Version
+## 🧠 About Me: The Human Version
 
-- 🔭 Currently working on open-source projects and [Building My X in Rust](https://github.com/RafaelJohn9/build-your-own-x)
+- 🔭 **Currently working on** open-source projects and [Building My X in Rust](https://github.com/RafaelJohn9/build-your-own-x)
   - *Spoiler: It's mostly me arguing with the borrow checker*
   
-- 🌱 Learning [AI](https://openai.com/news/research/)
-  - *Currently trying to teach an AI to write better READMEs than me. It keeps suggesting "just use ChatGPT"*
-  - *Latest update: May 16, 2025 - Safety improvements (so it won't accidentally become Skynet while I'm sleeping)*
+- 🌱 **Learning** [AI](https://openai.com/news/research/)
+  - *Currently trying to teach an AI to write better READMEs than me*
+  - *It keeps suggesting "just use ChatGPT"*
 
-- 📝 I write about software engineering [here](https://dev.to/rafaeljohn9)
-  - *Where I share my wisdom, except when I get the "Something went wrong" error from dev.to*
-  - *Pro tip: If you see "⚠️ Some privacy related extensions may cause issues", that's just my code trying to stay incognito*
+- 📝 **I write about software engineering** [here](https://dev.to/rafaeljohn9)
+  - *Where I share my wisdom, except when I get the "Something went wrong" error*
 
-- 💬 Ask me about: **Software Engineering, Rust, Python, Backend Systems**
+- 💬 **Ask me about:** Software Engineering, Rust, Python, Backend Systems
   - *Warning: May spontaneously break into discussions about why semicolons are overrated*
 
-- 📫 How to reach me:
-  - 📧 [johnmkagunda@gmail.com](mailto:johnmkagunda@gmail.com) *(I check this more often than my social media)*
-  - 💬 [Discord](https://discord.com/channels/@me/1079366889752494140) *(Where I'm probably debugging something at 2AM)*
-  - 🐦 [Twitter](https://twitter.com/JohnKagunda_12) *(Where I occasionally tweet about the "Something went wrong" error)*
-
-- ⚡ Fun fact: **I'm not funny, but my code is clean 😄**
+- ⚡ **Fun fact:** I'm not funny, but my code is clean 😄
   - *My humor compiles successfully 100% of the time (unlike my CI/CD pipelines)*
-  - *I once tried to make a programming joke about NULL. Nobody got it. It was... nothing.*
 
 ---
 
-### 🔗 Connect With Me (If You Dare)
-
-| Platform | What to Expect |
-|----------|----------------|
-| [![Twitter](https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg)](https://twitter.com/JohnKagunda_12) | Where I tweet about the "privacy extensions" error more than actual content |
-| [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/john-kagunda-232961270/) | Professional me (but still better than my Twitter) |
-| [![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://www.leetcode.com/rafaeljohn) | Where I solve problems so I don't have to solve them at work |
-
----
-
-### 🛠️ Tech Stack: The Weaponized Version
-
-#### Languages (My Digital Swiss Army Knife)
-
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) *The duct tape of programming*  
-![Rust](https://img.shields.io/badge/-Rust-333?style=flat&logo=rust) *Where I go to feel pain and grow stronger*  
-![C](https://img.shields.io/badge/-C-333?style=flat&logo=c) *For when I want to feel like a real programmer*  
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) *Where 2+2 sometimes equals "22"*  
-![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5) *My canvas for beautiful errors*  
-![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3) *Where I fight specificity wars*
-
-#### Frameworks & Libraries (My Trusty Sidekicks)
-
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react) *Component of my existence*  
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js) *Where I promise to use async/await (but sometimes don't)*  
-![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express) *My express lane to 404 errors*  
-![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask) *Where I keep my Pythonic spirits*  
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat&logo=tailwindcss) *For when I want to look good without trying*
-
-#### Tools & Platforms (My Digital Playground)
-
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker) *Where I containerize my problems*  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat&logo=kubernetes) *For when Docker isn't complicated enough*  
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git) *Where I commit to making mistakes*  
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux) *Because I like pain (and freedom)*  
-![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql) *My relationship status: It's complicated*  
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb) *Where I store my hopes and dreams (and documents)*  
-![Redis](https://img.shields.io/badge/-Redis-333?style=flat&logo=redis) *My brain's cache (when it works)*  
-![Nginx](https://img.shields.io/badge/-Nginx-333?style=flat&logo=nginx) *The bouncer at my server's club*  
-![Figma](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma) *Where I pretend to be a designer*  
-![Bash](https://img.shields.io/badge/-Bash-333?style=flat&logo=gnubash) *My command line confessional*
-
----
-
-### 📊 GitHub Stats (Proof I'm Not Just Sleeping)
+## 🔗 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaeljohn9&show_icons=true&theme=tokyonight-duo" alt="GitHub Stats" />
-  <br>
-  <em>My productivity graph looks like a heart attack, but hey - it's trending upward!</em>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaeljohn9&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <br>
-  <em>I've maintained this streak longer than most of my relationships</em>
+  <a href="https://twitter.com/JohnKagunda_12">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="30"/>
+  </a>
+  <a href="https://linkedin.com/in/john-kagunda-232961270/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
+  </a>
+  <a href="https://www.leetcode.com/rafaeljohn">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" height="30"/>
+  </a>
+  <a href="mailto:johnmkagunda@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30"/>
+  </a>
+  <a href="https://discord.com/channels/@me/1079366889752494140">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="30"/>
+  </a>
 </p>
 
 ---
 
-> **🤖 AI Assistant's Commentary**  
-> *"After analyzing John's profile, I've determined he's 73.8% likely to:  
-> - Fix a critical bug at 3AM  
-> - Accidentally commit to master  
-> - Blame it on the coffee  
-> 
-> His code quality: 9/10 (would review again)  
-> His README: 11/10 (exceeds expectations)  
-> 
-> P.S. I'm still trying to figure out why Twitter keeps showing him the 'privacy extensions' error..."*
+## 🛠️ Tech Stack
+
+### Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" height="30"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="30"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="30"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30"/>
+</p>
+
+### Frameworks & Libraries
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="30"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="30"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" height="30"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="30"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" height="30"/>
+</p>
+
+### Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="30"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" height="30"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="30"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="30"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="30"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" height="30"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" height="30"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaeljohn9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaeljohn9&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeljohn9&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+</div>
+
+---
+
+## 💭 Random Dev Thoughts
+
+> *"I don't always test my code, but when I do, I do it in production."*
+
+> *"My code works on my machine... and that's all that matters, right?"*
+
+> *"Debugging is like being the detective in a crime movie where you are also the murderer."*
 
 ---
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnh1eDg0amFwczZuMzQ3MmVvaHJ3aDF4cXN0eW1oa2x0MmlsejA2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D6Bd9o4unoP1tW8rP1/giphy.gif" alt="coding-gif" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnh1eDg0amFwczZuMzQ3MmVvaHJ3aDF4cXN0eW1oa2x0MmlsejA2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D6Bd9o4unoP1tW8rP1/giphy.gif" width="400" alt="Coding"/>
   <br>
-  <em>This is me when I finally fix that one bug that's been bothering me for weeks</em>
+  <em>Me when the code finally works after 47 Stack Overflow tabs</em>
 </p>
 
+---
+
 <p align="center">
-  <em>"I don't always test my code, but when I do, I do it in production." - John, probably</em>
+  <em>Thanks for stopping by! Feel free to reach out if you want to collaborate or just chat about tech 🚀</em>
 </p>
