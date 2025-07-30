@@ -101,9 +101,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaeljohn9&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeljohn9&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
-</div>
 
 ---
 
