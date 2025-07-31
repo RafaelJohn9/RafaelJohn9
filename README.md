@@ -117,7 +117,7 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnh1eDg0amFwczZuMzQ3MmVvaHJ3aDF4cXN0eW1oa2x0MmlsejA2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D6Bd9o4unoP1tW8rP1/giphy.gif" width="400" alt="Coding"/>
   <br>
-  <em>Me when the code finally works after 47 Stack Overflow tabs</em>
+  <em>Me when the code finally works at 3:00 am </em>
 </p>
 
 ---
