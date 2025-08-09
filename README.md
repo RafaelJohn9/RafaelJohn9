@@ -102,17 +102,7 @@
 </div>
 
 
----
-
-## 💭 Random Dev Thoughts
-
-> *"I don't always test my code, but when I do, I do it in production."*
-
-> *"My code works on my machine... and that's all that matters, right?"*
-
-> *"Debugging is like being the detective in a crime movie where you are also the murderer."*
-
----
+----
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnh1eDg0amFwczZuMzQ3MmVvaHJ3aDF4cXN0eW1oa2x0MmlsejA2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D6Bd9o4unoP1tW8rP1/giphy.gif" width="400" alt="Coding"/>
