@@ -79,7 +79,7 @@ coffee: true        # required dependency
 
 <tr>
 <td>
-<h3>💰 <a href="https://github.com/RafaelJohn9/mpesa-daraja-sdk">mpesa-sdk</a></h3>
+<h3>💰 <a href="mpesakit.dev">mpesa-sdk</a></h3>
 <pre>
 ```python
 # Because M-Pesa integration shouldn't require a PhD in frustration
