@@ -70,7 +70,7 @@ coffee: true        # required dependency
 ```
 </pre>
 <p>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/rust-%23323330.svg?style=flat&logo=rust&logoColor=%23B7410E" />
 <img src="https://img.shields.io/badge/github%20api-%23121011.svg?style=flat&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/automation-%23FF6B6B.svg?style=flat" />
 </p>
